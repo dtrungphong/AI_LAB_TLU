@@ -33,8 +33,8 @@
 - Folder hoặc file sẽ lưu dưới dạng tiếng việt không dấu và nối nhau bởi dấu gạch chân
 - Mô hình tổ chức tổng quát:
 
-![image_1](image)
+![image_1](https://github.com/dtrungphong/AI_LAB_TLU/blob/master/Smart_mirror/Handling_Data/doc/image/pic1.png)
 
 - Cách tổ chức câu hỏi trong file word
 
-![image_2]()
+![image_2](https://github.com/dtrungphong/AI_LAB_TLU/blob/master/Smart_mirror/Handling_Data/doc/image/pic2.png)
