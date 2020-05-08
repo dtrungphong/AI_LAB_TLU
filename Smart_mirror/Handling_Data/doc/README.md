@@ -26,11 +26,11 @@
 
 ## Hướng dẫn tổ chức file
 
-- Thu thập và soạn thảo các câu hỏi dưới dạng file word
 - Trong một folder chức năng có nhiều folder con liên quan đến các câu khác nhau, ta sẽ đặt các dưới dạng cau_01, cau_02,...
 - Trong một folder các câu khác nhau chứa hai file câu hỏi và câu trả lời
 - File câu hỏi riêng, câu trả lời riêng.
 - Folder hoặc file sẽ lưu dưới dạng tiếng việt không dấu và nối nhau bởi dấu gạch chân
+- Thu thập và soạn thảo các câu hỏi dưới dạng file word sau đó xuất sang file .pdf
 - Mô hình tổ chức tổng quát:
 
 ![image_1](https://github.com/dtrungphong/AI_LAB_TLU/blob/master/Smart_mirror/Handling_Data/doc/image/pic1.png)
